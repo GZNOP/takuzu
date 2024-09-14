@@ -1,0 +1,12 @@
+# test d'une grille 8x8
+#un autre commentaire
+1111 1111 # ici un commentaire
+ 0 0 0 0 1 1 1    1
+________
+# la aussi 
+________
+________
+_____111
+________
+1______0
+#ici la fin de la grille
